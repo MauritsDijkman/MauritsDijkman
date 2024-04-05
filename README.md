@@ -12,6 +12,7 @@
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
 ![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
+<br>
 ![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=unity&logoColor=white&color=black)
 ![](https://img.shields.io/badge/Tools-Unreal%20Engine-informational?style=flat&logo=unreal-engine&logoColor=white&color=0E1128)
 
@@ -25,4 +26,4 @@
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
-[3]: [https://www.linkedin.com/in/yourlinkedinprofile/](https://www.linkedin.com/in/maurits-dijkman/)
+[3]: [https://www.linkedin.com/in/maurits-dijkman/]
