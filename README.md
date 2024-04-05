@@ -2,13 +2,12 @@
 
 ## About Me
 - 🔭 I’m currently working on Apollo Arena
-- 🌱 I’m currently learning Game Development
+- 🌱 I’m currently studying to become a Game Developer, specialised in Gameplay Programming
 - 👯 I’m looking to collaborate on Unreal Engine projects
-- 🤔 I’m looking for help with mixed reality development in Unity
-- 💬 Ask me about VR, MR, etc.
+- 💬 Ask me about VR, MR, or gameplay programming in general
 - 📫 How to reach me: Please send me an message on LinkedIn!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: [Fun Fact About You]
+- ⚡ Fun fact: I really like to hike!
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
