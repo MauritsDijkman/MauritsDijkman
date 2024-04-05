@@ -20,6 +20,10 @@
 ![Maurits Dijkman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauritsdijkman&show_icons=true&theme=radical)
 
 ## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/maurits-dijkman/
+- GitHub: https://github.com/MauritsDijkman
+- ArtStation: https://www.artstation.com/mauritsdijkman
+- 
 [![LinkedIn][3.2]][3]
 
 <!-- Icons -->
