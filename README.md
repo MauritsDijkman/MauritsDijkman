@@ -23,7 +23,7 @@
 [![LinkedIn][3.2]][3]
 
 <!-- Icons -->
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "https://www.linkedin.com/in/maurits-dijkman/"
 
 <!-- Links to your social media accounts -->
 [3]: https://www.linkedin.com/in/maurits-dijkman/
