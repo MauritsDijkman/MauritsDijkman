@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 ## GitHub Stats
-![Maurits Dijkman's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Maurits Dijkman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauritsdijkman&show_icons=true&theme=radical)
 
 ## Connect with Me
 [![LinkedIn][3.2]][3]
