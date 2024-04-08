@@ -17,6 +17,7 @@
 
 ## GitHub Stats
 ![Maurits Dijkman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauritsdijkman&show_icons=true&theme=transparent)
+![Maurits Dijkman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauritsdijkman&show_icons=true&theme=codeSTACKr)
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/maurits-dijkman/
