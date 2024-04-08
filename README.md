@@ -16,7 +16,6 @@
 ![](https://img.shields.io/badge/Tools-Unreal%20Engine-informational?style=flat&logo=unreal-engine&logoColor=white&color=0E1128)
 
 ## GitHub Stats
-![Maurits Dijkman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauritsdijkman&show_icons=true&theme=transparent)
 ![Maurits Dijkman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauritsdijkman&show_icons=true&theme=codeSTACKr)
 
 ## Connect with Me
