@@ -3,7 +3,6 @@
 ## About Me
 - 🔭 I’m currently working on Apollo Arena
 - 🌱 I’m currently studying to become a Game Developer, specialised in Gameplay Programming
-- 👯 I’m looking to collaborate on Unreal Engine projects
 - 💬 Ask me about VR, MR, or gameplay programming in general
 - 📫 How to reach me: Please send me an message on LinkedIn!
 - 😄 Pronouns: He/Him
