@@ -1,11 +1,11 @@
 # Hi there, I'm Maurits Dijkman! 👋
+Welcome to my GitHub! I'm a dedicated game developer currently studying Creative Media and Game Technologies at Saxion University. Specializing in Gameplay Programming, I have a strong passion for creating immersive gaming experiences!
 
 ## About Me
-- 🔭 I’m currently working on Apollo Arena
-- 🌱 I’m currently studying to become a Game Developer, specialised in Gameplay Programming
-- 💬 Ask me about VR, MR, or gameplay programming in general
+- 🔭 Currently working on Apollo Arena and other innovative projects.
+- 🌱 Pursuing a degree in Game Development, focusing on Gameplay Programming.
+- 💬 Ask me about anything related to VR, MR, or gameplay programming.
 - 📫 How to reach me: Please send me a message on LinkedIn!
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I really like to hike!
 
 ## Technologies & Tools
