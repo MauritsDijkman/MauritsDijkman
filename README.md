@@ -1,5 +1,7 @@
 # Hi there, I'm Maurits Dijkman! 👋
-Welcome to my GitHub! I'm a dedicated game developer currently studying Creative Media and Game Technologies at Saxion University. Specializing in Gameplay Programming, I have a strong passion for creating immersive gaming experiences!
+Welcome to my GitHub! I am a dedicated game developer currently studying Creative Media and Game Technologies at Saxion University. Specializing in Gameplay Programming, I have a strong passion for creating immersive gaming experiences!
+
+Feel free to explore my repositories and reach out if you are interested in collaborating on game development projects!
 
 ## About Me
 - 🔭 Currently working on Apollo Arena and other innovative projects.
