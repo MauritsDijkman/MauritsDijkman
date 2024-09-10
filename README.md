@@ -1,25 +1,25 @@
-# Hi there, I'm Maurits Dijkman! 👋
-Welcome to my GitHub! I am a dedicated game developer currently studying Creative Media and Game Technologies at Saxion University. Specializing in Gameplay Programming, I have a strong passion for creating immersive gaming experiences!
+# Hi there, I'm Maurits Dijkman! 👋  
+Welcome to my GitHub profile!
 
-Feel free to explore my repositories and reach out if you are interested in collaborating on game development projects!
+I'm a passionate game developer currently studying **Interaction Technology** at the **University of Twente**. I have completed my degree in **Creative Media and Game Technologies** at **Saxion University**. With a focus on **Gameplay Programming**, I'm dedicated to creating captivating and immersive gaming experiences.
 
-## About Me
-- 🔭 Currently working on Apollo Arena and other innovative projects.
-- 🌱 Pursuing a degree in Game Development, focusing on Gameplay Programming.
-- 💬 Ask me about anything related to VR, MR, or gameplay programming.
-- 📫 How to reach me: Please send me a message on LinkedIn!
-- ⚡ Fun fact: I really like to hike!
+Feel free to explore my repositories and reach out if you'd like to collaborate on game development projects!
 
-## Technologies & Tools
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
-![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
-<br>
-![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=unity&logoColor=white&color=black)
-![](https://img.shields.io/badge/Tools-Unreal%20Engine-informational?style=flat&logo=unreal-engine&logoColor=white&color=0E1128)
+## 🚀 About Me  
+- 💻 **Currently working on:** *Apollo Arena* and other innovative projects.  
+- 🧑‍🎓 **Studying:** *Game Development* with a specialization in *Gameplay Programming*. Currently pursuing a master's degree in *Interaction Technology*.  
+- 💬 **Ask me about:** VR, MR, gameplay programming, or anything game-related!  
+- 📫 **How to reach me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/maurits-dijkman/)!  
 
-## GitHub Stats
-![Maurits Dijkman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauritsdijkman&show_icons=true&theme=codeSTACKr)
+## 🛠️ Technologies & Tools  
+![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
+![C++](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)  
+![Unity](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=unity&logoColor=white&color=black)
+![Unreal Engine](https://img.shields.io/badge/Tools-Unreal%20Engine-informational?style=flat&logo=unreal-engine&logoColor=white&color=0E1128)
 
-## Connect with Me
-- LinkedIn: https://www.linkedin.com/in/maurits-dijkman/
-- GitHub: https://github.com/MauritsDijkman
+## 📊 GitHub Stats  
+![Maurits Dijkman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauritsdijkman&show_icons=true&theme=codeSTACKr)  
+
+## 🌐 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/maurits-dijkman/)  
+- [GitHub](https://github.com/MauritsDijkman)  
